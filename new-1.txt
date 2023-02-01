@@ -6,7 +6,7 @@ typedef struct __Node {
     int value;
 } Node;
 
-int main(String args[]) {
+int main() {
 
     return 0;
 }
